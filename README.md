@@ -12,7 +12,8 @@ A bot for streaming in Telegram live streams.
 
 #### Prerequisites
 
-- [youtube-dl](http://ytdl-org.github.io/youtube-dl/)
+- telegram bot 
+- mind
 
 #### Install
 
